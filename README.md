@@ -18,7 +18,7 @@
 
 ✨The last project I worked with:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE)](https://github.com/ЬфчЗщзыгн/cybersecurity_by-HOPE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
 
 <!-- 🎊 Top languages: -->
 
