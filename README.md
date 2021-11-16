@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on discord-bot
 - 🌱 I’m currently learning React.js
-- 😄 Pronouns: He/Him
+<!-- - 😄 Pronouns: He/Him -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
