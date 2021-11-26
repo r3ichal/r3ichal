@@ -1,4 +1,4 @@
-<!-- ![Banner](./img.jpg) -->
+![Banner](./img2.jpg)
 
 <h1>Hi there 👋 </h1>
 
