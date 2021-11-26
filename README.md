@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
+
 - 🔭 I’m currently working on discord-bot
 - 🌱 I’m currently learning React
+- 📫 How to reach me: https://discord.gg/A4x6ZqUtZf or H4cK3Rm4N#5813
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
 
