@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on discord-bot
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
