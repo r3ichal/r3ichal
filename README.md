@@ -1,7 +1,6 @@
-### Hi there 👋
+<!-- ![Banner](./img.jpg) -->
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
+<h1>Hi there 👋 </h1>
 
 - 🔭 I’m currently working on discord-bot
 - 🌱 I’m currently learning React
@@ -13,13 +12,21 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-<!-- 
-### 🧰 Languages:
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/128px-Unofficial_JavaScript_logo_2.svg.png)
-![React](https://icons-for-free.com/iconfiles/png/128/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png) -->
 
-✨The last project I worked with:
+### 🧰 Languages and other:
+
+<img align="left" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50px"/>
+
+<img align="left" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px"/>
+
+<img align="left" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50px"/>
+
+<img  align="left" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50px"/>
+
+<img  alt="node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50px"/>
+
+<h1>✨The last project I worked with: </h1>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
 
