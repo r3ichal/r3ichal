@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋 </h1>
 
-- 🔭 I’m currently working on discord-bot and szh2.0
+- 🔭 I’m currently working on SARCATR PROJ.
 - 🌱 I’m currently learning React
 - 📫 How to reach me: <a href="https://discord.gg/A4x6ZqUtZf" target="_blank">Discord Server</a> or H4cK3Rm4N#5813 in discord
 <!-- - 😄 Pronouns: He/Him -->
