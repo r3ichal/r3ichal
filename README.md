@@ -3,7 +3,7 @@
 <h1>Hi there 👋 </h1>
 
 - 🔭 I’m currently working on SARCATR PROJ.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React :)
 - 📫 How to reach me: <a href="https://discord.gg/A4x6ZqUtZf" target="_blank">Discord Server</a> or H4cK3Rm4N#0939 in discord
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - 👯 I’m looking to collaborate on ... -->
