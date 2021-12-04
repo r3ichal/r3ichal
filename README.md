@@ -31,9 +31,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
 
-<!-- 🎊 Top languages: -->
+🎊 Top languages:
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+<p>But why... Html...</p>
+
 ### 🎊 Stats:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxPopsuy&show_icons=true&theme=radical)](https://github.com/MaxPopsuy)
