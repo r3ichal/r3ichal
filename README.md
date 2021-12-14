@@ -33,7 +33,7 @@
 
 🎊 Top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=radial)](https://github.com/MaxPopsuy)
 <p>But why... Html...</p>
 
 ### 🎊 Stats:
