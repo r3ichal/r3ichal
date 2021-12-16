@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on SARCATR PROJ.
 - 🌱 I’m currently learning React :)
-- 📫 How to reach me: discord server(not now my friend) or H4cK3Rm4N#0939 in discord;
+- 📫 How to reach me: discord server(not now) or H4cK3Rm4N#0939 in discord;
 <!-- - 😄 Pronouns: He/Him -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -45,3 +45,4 @@
 Here are some ideas to get you started:
 
 -->
+sam
