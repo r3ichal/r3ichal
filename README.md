@@ -29,11 +29,11 @@
 <h1>✨The last project I worked with: </h1>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE&theme=radical)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
 
 🎊 Top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=radial)](https://github.com/MaxPopsuy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=radical)](https://github.com/MaxPopsuy)
 <p>But why... Html...</p>
 
 ### 🎊 Stats:
