@@ -13,17 +13,17 @@
 
 
 
-### 🧰 Languages and other:
+### 🧰 My skills:
 
-<img align="left" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50px"/>
-
-<!-- <img align="left" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px"/> -->
-
-<img align="left" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50px"/>
-
-<img alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50px"/>
-
-<!-- <img  alt="node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50px"/> -->
+![HTML](https://img.shields.io/badge/-Html-423189?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Css](https://img.shields.io/badge/-Css-423189?style=for-the-badge&logo=css3&logoColor=5c98f2)
+![Scss](https://img.shields.io/badge/-SCSS-423189?style=for-the-badge&logo=SASS)
+![Js](https://img.shields.io/badge/-JavaScript-423189?style=for-the-badge&logo=JavaScript)
+![Gulp](https://img.shields.io/badge/-gulp-423189?style=for-the-badge&logo=gulp)
+![Webpack](https://img.shields.io/badge/-webpack-423189?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/-figma-423189?style=for-the-badge&logo=figma&logoColor=c44)
+![Git](https://img.shields.io/badge/-git-423189?style=for-the-badge&logo=git)
+<!-- ![Git](https://img.shields.io/badge/react-423189?style=for-the-badge&logo=react) -->
 
 
 <h1>✨The last project I worked with: </h1>
