@@ -21,7 +21,8 @@
 ![Webpack](https://img.shields.io/badge/-webpack-423189?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-423189?style=for-the-badge&logo=figma&logoColor=c44)
 ![Git](https://img.shields.io/badge/-git-423189?style=for-the-badge&logo=git)
-
+![Redux](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=redux)
+<!-- ![NextJs](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=nextjs) -->
 
 
 <h1>✨The last project I worked with/on: </h1>
