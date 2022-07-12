@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋 </h1>
 
-- 🔭 I’m currently working on SARCATR PROJ., Protea server
+- 🔭 I’m currently working on SARCATR PROJ., Protea server, Imersite. Ахах серьезно уже 5 месяц
 - 🌱 I’m currently learning Python, Next.js, Node.js :)
 - 📫 How to reach me: discord server(not now) or H4cK3Rm4N#0939 in discord;
 <!-- - ⚡⚡ Best phrase: Ehre sei Bandera Ukraine! Ehre sei Bandera! Tod den Feinden! ϟϟ -->
