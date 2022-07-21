@@ -24,10 +24,8 @@
 <!-- ![NextJs](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=nextjs) -->
 
 
-<h1>✨The last project I worked with/on: </h1>
+<!-- <h1>Cv</h1> -->
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytroKolisnyk2&repo=archetypes-testing&theme=radical)](https://github.com/DmytroKolisnyk2/archetypes-testing)
 
 
 
