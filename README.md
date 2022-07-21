@@ -2,9 +2,9 @@
 
 <h1>Hi there 👋 </h1>
 
-- 🔭 I’m currently working on SARCATR PROJ., Protea server, 
+<!-- - 🔭 I’m currently working on goiteens internship -->
 - 🌱 I’m currently learning Python, Next.js, Node.js :)
-- 📫 How to reach me: discord server(not now) or H4cK3Rm4N#0939 in discord;
+- 📫 How to reach me: maxim09p@gmail.com or H4cK3Rm4N#0939 in discord;
 
 
 
@@ -20,7 +20,7 @@
 ![Webpack](https://img.shields.io/badge/-webpack-423189?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-423189?style=for-the-badge&logo=figma&logoColor=c44)
 ![Git](https://img.shields.io/badge/-git-423189?style=for-the-badge&logo=git)
-![Redux](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=redux)
+<!-- ![Redux](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=redux) -->
 <!-- ![NextJs](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=nextjs) -->
 
 
