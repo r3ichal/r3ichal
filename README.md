@@ -33,6 +33,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=archetypes-testing&theme=material-palenight)](https://github.com/MaxPopsuy/archetypes-testing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE&theme=material-palenight)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=filmSearch&theme=material-palenight)](https://github.com/MaxPopsuy/filmSearch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=todos_app&theme=material-palenight)](https://github.com/MaxPopsuy/todos_app)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=sarcatr&theme=material-palenight)](https://github.com/MaxPopsuy/sarcatr) 
 -->
 
