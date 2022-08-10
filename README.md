@@ -20,7 +20,7 @@
 ![Webpack](https://img.shields.io/badge/-webpack-292D3E?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-292D3E?style=for-the-badge&logo=figma&logoColor=c44)
 ![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
-<!-- ![Redux](https://img.shields.io/badge/-redux-292D3E?style=for-the-badge&logo=redux) -->
+![Redux](https://img.shields.io/badge/-redux-292D3E?style=for-the-badge&logo=redux)
 <!-- ![NextJs](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=nextjs) -->
 
 <h1> 🧰 Repositories: </h1>
