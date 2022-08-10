@@ -15,6 +15,7 @@
 ![Css](https://img.shields.io/badge/-Css-292D3E?style=for-the-badge&logo=css3&logoColor=5c98f2)
 ![Scss](https://img.shields.io/badge/-SCSS-292D3E?style=for-the-badge&logo=SASS)
 ![Js](https://img.shields.io/badge/-JavaScript-292D3E?style=for-the-badge&logo=JavaScript)
+![Ts](https://img.shields.io/badge/-Typescript-292D3E?style=for-the-badge&logo=Typescript)
 ![React](https://img.shields.io/badge/react-292D3E?style=for-the-badge&logo=react)
 ![Gulp](https://img.shields.io/badge/-gulp-292D3E?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-webpack-292D3E?style=for-the-badge&logo=webpack)
@@ -22,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
 ![Redux](https://img.shields.io/badge/-redux-292D3E?style=for-the-badge&logo=redux)
 <!-- ![NextJs](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=nextjs) -->
+<!-- ![Docker](https://img.shields.io/badge/-Docker-292D3E?style=for-the-badge&logo=Docker) -->
 
 <h1> 🧰 Repositories: </h1>
 
