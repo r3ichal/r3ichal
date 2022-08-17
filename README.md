@@ -35,6 +35,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=todos_app&theme=material-palenight)](https://github.com/MaxPopsuy/todos_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=react-starter&theme=material-palenight)](https://github.com/MaxPopsuy/react-starter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=express_starter-pack&theme=material-palenight)](https://github.com/MaxPopsuy/express_starter-pack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=jwt_server&theme=material-palenight)](https://github.com/MaxPopsuy/jwt_server)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=sarcatr&theme=material-palenight)](https://github.com/MaxPopsuy/sarcatr) 
 -->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=protea-server&theme=material-palenight)](https://github.com/MaxPopsuy/protea-server) -->
