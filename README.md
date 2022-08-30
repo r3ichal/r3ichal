@@ -3,7 +3,7 @@
 <h1>Hi there 👋 </h1>
 
 <!-- - 🔭 I’m currently working on goiteens internship -->
-- 🌱 I’m currently learning Python, Next.js, Node.js :)
+- 🌱 I’m currently learning Node.js and discord.js :)
 - 📫 How to reach me: maxim09p@gmail.com or H4cK3Rm4N#0939 in discord;
 
 
