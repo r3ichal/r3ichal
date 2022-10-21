@@ -27,8 +27,7 @@
 
 <h1> 🧰 Repositories: </h1>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=booking-system&theme=material-palenight)](https://github.com/MaxPopsuy/booking-system)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=gameOfTeens_JS_2021&theme=material-palenight)](https://github.com/MaxPopsuy/gameOfTeens_JS_2021)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=gameOfTeens_JS_2022&theme=material-palenight)](https://github.com/MaxPopsuy/gameOfTeens_JS_2022)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=archetypes-testing&theme=material-palenight)](https://github.com/MaxPopsuy/archetypes-testing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=cybersecurity_by-HOPE&theme=material-palenight)](https://github.com/MaxPopsuy/cybersecurity_by-HOPE)
