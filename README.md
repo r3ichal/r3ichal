@@ -2,8 +2,8 @@
 
 <h1>Hi there 👋 </h1>
 
-<!-- - 🔭 I’m currently working on goiteens internship -->
-- 🌱 I’m currently learning Node.js and discord.js :)
+- 🔭 I’m currently working on simplechat.io
+- 🌱 I’m currently learning Vue and Nest.js :)
 - 📫 How to reach me: maxim09p@gmail.com or H4cK3Rm4N#0939 in discord;
 
 
@@ -22,7 +22,7 @@
 ![Webpack](https://img.shields.io/badge/-webpack-292D3E?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-292D3E?style=for-the-badge&logo=figma&logoColor=c44)
 ![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
-<!-- ![NextJs](https://img.shields.io/badge/-redux-423189?style=for-the-badge&logo=nextjs) -->
+![NextJs](https://img.shields.io/badge/-nextjs-292D3E?style=for-the-badge&logo=next)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-292D3E?style=for-the-badge&logo=Docker) -->
 
 <h1> 🧰 Repositories: </h1>
