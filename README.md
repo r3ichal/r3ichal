@@ -23,6 +23,9 @@
 ![Figma](https://img.shields.io/badge/-figma-292D3E?style=for-the-badge&logo=figma&logoColor=c44)
 ![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
 ![NextJs](https://img.shields.io/badge/-nextjs-292D3E?style=for-the-badge&logo=next)
+![Express](https://img.shields.io/badge/-express-292D3E?style=for-the-badge&logo=express)
+![Mongodb](https://img.shields.io/badge/-Mongodb-292D3E?style=for-the-badge&logo=mongodb)
+![Vue](https://img.shields.io/badge/-Vue-292D3E?style=for-the-badge&logo=vuejs)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-292D3E?style=for-the-badge&logo=Docker) -->
 
 <h1> 🧰 Repositories: </h1>
