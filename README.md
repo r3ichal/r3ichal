@@ -1,9 +1,5 @@
  <!-- ![Banner](./IMG_20220727_235443_175.jpg) -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaxPopsuy&label=Visitors&color=292D3E&style=for-the-badge"/>
-</p>
-
 <h1>Hi there 👋 </h1>
 
 - 🔭 I’m currently working on simplechat.io
@@ -58,5 +54,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=material-palenight)](https://github.com/MaxPopsuy)
 
-
 P.S. Thanks Dima :)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaxPopsuy&label=Visitors&color=292D3E&style=for-the-badge"/>
+</p>
