@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on simplechat.io
 - 🌱 I’m currently learning Vue and Nest.js :)
-- 📫 How to reach me: maxim09p@gmail.com or H4cK3Rm4N#0939 in discord;
+- 📫 How to reach me: maxim09p@gmail.com or H4cK3Rm4N#1488 in discord;
 
 
 
