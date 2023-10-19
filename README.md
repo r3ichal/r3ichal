@@ -2,8 +2,8 @@
 
 <h1>Hi there 👋 </h1>
 
-- 🔭 I’m currently working on simplechat.io
-- 🌱 I’m currently learning Vue and Nest.js :)
+- 🔭 I’m currently working on smth very curios :)
+- 🌱 I’m currently learning Nest.js :)
 - 📫 How to reach me: maxim09p@gmail.com or h4ck3rm4n_ in discord;
 
 
