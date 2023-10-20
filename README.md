@@ -3,8 +3,8 @@
 <h1>Hi there 👋 </h1>
 
 - 🔭 I’m currently working on something very curios :)
-- 🌱 I’m currently learning Nest.js
-- 📫 How to reach me: maxim09p@gmail.com or h4ck3rm4n_ in discord;
+- 🌱 I’m currently learning C# & C++
+- 📫 How to reach me: maxim09p@gmail.com or h4ck3rm4n_ in discord
 
 
 
