@@ -2,8 +2,9 @@
 
 <h1>Hi there 👋 </h1>
 
-- 🔭 I’m currently working on something very curios :)
-- 🌱 I’m currently learning C# & C++
+- 🖥 I'm **Max**, mid fullstack developer/software developer
+- 🔭 I'm currently working on something very curios :)
+- 🌱 I'm currently learning C# & C++
 - 📫 How to reach me: h4ck3rm4n_ in discord
 
 
@@ -11,25 +12,46 @@
 
 <h1> 🧰 My skills: </h1>
 
+### Front-end:
 ![HTML](https://img.shields.io/badge/-Html-292D3E?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![Css](https://img.shields.io/badge/-Css-292D3E?style=for-the-badge&logo=css3&logoColor=5c98f2)
 ![Scss](https://img.shields.io/badge/-SCSS-292D3E?style=for-the-badge&logo=SASS)
+
 ![Js](https://img.shields.io/badge/-JavaScript-292D3E?style=for-the-badge&logo=JavaScript)
 ![Ts](https://img.shields.io/badge/-Typescript-292D3E?style=for-the-badge&logo=Typescript)
+
+
+![Vue](https://img.shields.io/badge/-Vue-292D3E?style=for-the-badge&logo=vuedotjs)
 ![React](https://img.shields.io/badge/react-292D3E?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-292D3E?style=for-the-badge&logo=redux)
+![NextJs](https://img.shields.io/badge/-nextjs-292D3E?style=for-the-badge&logo=next.js)
+
+### Backend:
+
+![Nodejs](https://img.shields.io/badge/-Node.js-292D3E?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-express-292D3E?style=for-the-badge&logo=express)
+![Mongodb](https://img.shields.io/badge/-Mongodb-292D3E?style=for-the-badge&logo=mongodb)
+
+### Software programming:
+
+![C#](https://img.shields.io/badge/-C%23-292D3E?style=for-the-badge&logo=csharp&logoColor=violet)
+![Python](https://img.shields.io/badge/-Python-292D3E?style=for-the-badge&logo=python)
+<!-- ![C++](https://img.shields.io/badge/-C++-292D3E?style=for-the-badge&logo=c%2B%2B&logoColor=violet) -->
+
+
+### Utilities:
 ![Gulp](https://img.shields.io/badge/-gulp-292D3E?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-webpack-292D3E?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-figma-292D3E?style=for-the-badge&logo=figma&logoColor=c44)
 ![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
-![NextJs](https://img.shields.io/badge/-nextjs-292D3E?style=for-the-badge&logo=next)
-![Express](https://img.shields.io/badge/-express-292D3E?style=for-the-badge&logo=express)
-![Mongodb](https://img.shields.io/badge/-Mongodb-292D3E?style=for-the-badge&logo=mongodb)
-![Vue](https://img.shields.io/badge/-Vue-292D3E?style=for-the-badge&logo=vuejs)
+
+
+
+
 <!-- ![Docker](https://img.shields.io/badge/-Docker-292D3E?style=for-the-badge&logo=Docker) -->
 <!--C691E9  292D3E-->
 
-<h1> 🧰 Repositories: </h1>
+<h1> 💻 Some of my Repositories: </h1>
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=gameOfTeens_JS_2021&theme=material-palenight)](https://github.com/MaxPopsuy/gameOfTeens_JS_2021)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=gameOfTeens_JS_2022&theme=material-palenight)](https://github.com/MaxPopsuy/gameOfTeens_JS_2022)
@@ -44,13 +66,10 @@
 -->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxPopsuy&repo=protea-server&theme=material-palenight)](https://github.com/MaxPopsuy/protea-server) -->
 
-<h1> 🎊 Stats: </h1>
-
+### 🎊 A little statistics would be nice, too:
 
 [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&show_icons=true&theme=material-palenight)](https://github.com/MaxPopsuy)
 
-
-<h1> 🎊 Top languages: </h1>
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=material-palenight)](https://github.com/MaxPopsuy)
