@@ -69,7 +69,7 @@
 
 ### 🎊 A little statistics would be nice, too:
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&show-icons=true&theme=material-palenight)](https://github.com/MaxPopsuy)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&show_icons=true&theme=material-palenight)](https://github.com/MaxPopsuy)
 
 
 
