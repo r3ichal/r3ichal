@@ -69,11 +69,11 @@
 
 ### 🎊 A little statistics would be nice, too:
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&show_icons=true&theme=material-palenight)](https://github.com/MaxPopsuy)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&theme=material-palenight)](https://github.com/MaxPopsuy)
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=material-palenight)](https://github.com/MaxPopsuy)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/to-langs/?username=MaxPopsuy&layout=compact&theme=material-palenight)](https://github.com/MaxPopsuy)
 
 P.S. Thanks Dima :)
 
