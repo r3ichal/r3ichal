@@ -69,11 +69,16 @@
 
 ### 🎊 A little statistics would be nice, too:
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&show_icons=true&theme=material-palenight)](https://github.com/MaxPopsuy)
+<!-- [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxPopsuy&show_icons=true&theme=material-palenight)](https://github.com/MaxPopsuy) -->
+
+[![Commits by lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
+[![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
+[![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
+[![Commits by time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxPopsuy&utcOffset=+2&theme=tokyonight)](https://github.com/MaxPopsuy)
 
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=material-palenight)](https://github.com/MaxPopsuy)
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxPopsuy&layout=compact&theme=material-palenight)](https://github.com/MaxPopsuy) --> 
 
 P.S. Thanks Dima :)
 
