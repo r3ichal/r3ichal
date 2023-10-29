@@ -53,6 +53,7 @@
 
 <h1> 💻 Some of my Repositories: </h1>
 
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=Entropy&theme=material-palenight)](https://github.com/MaxPopsuy/Entropy)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=gameOfTeens_JS_2021&theme=material-palenight)](https://github.com/MaxPopsuy/gameOfTeens_JS_2021)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=gameOfTeens_JS_2022&theme=material-palenight)](https://github.com/MaxPopsuy/gameOfTeens_JS_2022)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=archetypes-testing&theme=material-palenight)](https://github.com/MaxPopsuy/archetypes-testing)
