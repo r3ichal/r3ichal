@@ -45,15 +45,15 @@
 ### Utilities:
 
 ![Gulp](https://img.shields.io/badge/-gulp-292D3E?style=for-the-badge&logo=gulp)
-![Webpack](https://img.shields.io/badge/-webpack-292D3E?style=for-the-badge&logo=webpack)
+![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-figma-292D3E?style=for-the-badge&logo=figma&logoColor=c44)
 
 ![Vercel](https://img.shields.io/badge/vercel-292D3E.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-292D3E.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-292D3E.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Git](https://img.shields.io/badge/-git-292D3E?style=for-the-badge&logo=git)
-![Vite](https://img.shields.io/badge/vite-292D3E?style=for-the-badge&logo=vite&logoColor=violet)
+![Webpack](https://img.shields.io/badge/-webpack-292D3E?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/-vite-292D3E?style=for-the-badge&logo=vite)
 
 
 
