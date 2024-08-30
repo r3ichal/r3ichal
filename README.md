@@ -5,7 +5,7 @@
 - 🖥 I'm **Max**, mid fullstack developer/ junior software developer
 - 🔭 I'm currently working on REYKI project
 - 🌱 I'm currently learning C# & C++
-- 📫 How to reach me: h4ck3rm4n_ in discord
+- 📫 How to reach me: r3ichal in discord
 
 
 
