@@ -67,6 +67,7 @@
   <summary>💻 Repos:</summary>
  
   [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=Entropy&theme=material-palenight)](https://github.com/MaxPopsuy/Entropy)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=LuaFlux&theme=material-palenight)](https://github.com/MaxPopsuy/LuaFlux)
   [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=archetypes-testing&theme=material-palenight)](https://github.com/MaxPopsuy/archetypes-testing)
   [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=filmSearch&theme=material-palenight)](https://github.com/MaxPopsuy/filmSearch)
   [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=react-starter&theme=material-palenight)](https://github.com/MaxPopsuy/react-starter)
