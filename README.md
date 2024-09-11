@@ -39,6 +39,9 @@
 ![C#](https://img.shields.io/badge/-C%23-292D3E?style=for-the-badge&logo=csharp&logoColor=violet)
 ![Electron.js](https://img.shields.io/badge/Electron-292D3E?style=for-the-badge&logo=Electron&logoColor=violet)
 ![Python](https://img.shields.io/badge/-Python-292D3E?style=for-the-badge&logo=python)
+
+![Lua](https://img.shields.io/badge/-Lua-292D3E?style=for-the-badge&logo=lua&logoColor=violet)
+![Go](https://img.shields.io/badge/-Go-292D3E?style=for-the-badge&logo=go&logoColor=violet)
 <!-- ![C++](https://img.shields.io/badge/-C++-292D3E?style=for-the-badge&logo=c%2B%2B&logoColor=violet) -->
 
 
