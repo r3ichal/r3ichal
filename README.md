@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋 </h1>
 
-- 🖥 I'm **Max**, mid fullstack developer/ junior software developer
+- 🖥 I'm **r3ichal**, mid fullstack developer / junior software developer
 - 🔭 I'm currently working on REYKI project
 - 🌱 I'm currently learning C# & C++
 - 📫 How to reach me: r3ichal in discord
