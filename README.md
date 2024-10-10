@@ -4,7 +4,7 @@
 
 - 🖥 I'm **r3ichal**, mid fullstack developer / junior software developer
 - 🔭 I'm currently working on REYKI project
-- 🌱 I'm currently learning C# & C++
+- 🌱 I'm currently learning c++ & astro
 - 📫 How to reach me: r3ichal in discord
 
 
