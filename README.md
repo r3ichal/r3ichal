@@ -3,7 +3,7 @@
 <h1>Hi there 👋 </h1>
 
 - 🖥 I'm **r3ichal**, mid fullstack developer / junior software developer
-- 🔭 I'm currently working on REYKI project
+- 🔭 I'm currently working on my deppresion, on the side note a group of Electron + React projects + REYKI
 - 🌱 I'm currently learning to be human again, on the side note C#
 - 📫 How to reach me:  You can email me at [r3ichal@proton.me](mailto:r3ichal@proton.me) or reach me on Discord at **r3ichal**.
 
