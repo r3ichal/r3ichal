@@ -66,23 +66,23 @@
 <details>
   <summary>💻 Repos:</summary>
  
-  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=Entropy&theme=material-palenight)](https://github.com/MaxPopsuy/Entropy)
-  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=LuaFlux&theme=material-palenight)](https://github.com/MaxPopsuy/LuaFlux)
-  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=archetypes-testing&theme=material-palenight)](https://github.com/MaxPopsuy/archetypes-testing)
-  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=filmSearch&theme=material-palenight)](https://github.com/MaxPopsuy/filmSearch)
-  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=react-starter&theme=material-palenight)](https://github.com/MaxPopsuy/react-starter)
-  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MaxPopsuy&repo=express_starter-pack&theme=material-palenight)](https://github.com/MaxPopsuy/express_starter-pack)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r3ichal&repo=Entropy&theme=material-palenight)](https://github.com/r3ichal/Entropy)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r3ichal&repo=LuaFlux&theme=material-palenight)](https://github.com/r3ichal/LuaFlux)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r3ichal&repo=archetypes-testing&theme=material-palenight)](https://github.com/r3ichal/archetypes-testing)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r3ichal&repo=filmSearch&theme=material-palenight)](https://github.com/r3ichal/filmSearch)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r3ichal&repo=react-starter&theme=material-palenight)](https://github.com/r3ichal/react-starter)
+  [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r3ichal&repo=express_starter-pack&theme=material-palenight)](https://github.com/r3ichal/express_starter-pack)
   
 </details> 
 
 <details>
   <summary>📊 Stats:</summary>
  
-  [![Commits by lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
-  [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
-  [![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
-  [![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxPopsuy&theme=tokyonight)](https://github.com/MaxPopsuy)
-  [![Commits by time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxPopsuy&utcOffset=+2&theme=tokyonight)](https://github.com/MaxPopsuy)
+  [![Commits by lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r3ichal&theme=tokyonight)](https://github.com/r3ichal)
+  [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r3ichal&theme=tokyonight)](https://github.com/r3ichal)
+  [![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r3ichal&theme=tokyonight)](https://github.com/r3ichal)
+  [![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r3ichal&theme=tokyonight)](https://github.com/r3ichal)
+  [![Commits by time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r3ichal&utcOffset=+2&theme=tokyonight)](https://github.com/r3ichal)
   
 </details>
 
