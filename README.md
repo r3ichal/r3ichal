@@ -86,8 +86,6 @@
   
 </details>
 
-P.S. Thanks Dima :)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaxPopsuy&label=Visitors&color=292D3E&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=r3ichal&label=Visitors&color=292D3E&style=for-the-badge"/>
 </p>
