@@ -3,8 +3,8 @@
 <h1>Hi there 👋 </h1>
 
 - 🖥 I'm **r3ichal**, mid fullstack developer / junior software developer
-- 🔭 I'm currently working on my depression, on the side note a group of Electron + React projects + REYKI
-- 🌱 I'm currently learning to be human again, on the side note C#
+- 🔭 I'm currently working on my depression
+- 🌱 I'm currently learning C++
 - 📫 How to reach me:  You can email me at [r3ichal@proton.me](mailto:r3ichal@proton.me) or reach me on Discord at **r3ichal**.
 
 
@@ -14,7 +14,7 @@
 
 ### Frontend:
 ![HTML](https://img.shields.io/badge/-Html-292D3E?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Css](https://img.shields.io/badge/-Css-292D3E?style=for-the-badge&logo=css3&logoColor=5c98f2)
+![Css](https://img.shields.io/badge/-Css-292D3E?style=for-the-badge&logo=css&logoColor=5c98f2)
 ![Scss](https://img.shields.io/badge/-SCSS-292D3E?style=for-the-badge&logo=SASS)
 
 ![Js](https://img.shields.io/badge/-JavaScript-292D3E?style=for-the-badge&logo=JavaScript)
