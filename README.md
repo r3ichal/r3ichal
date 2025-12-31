@@ -4,7 +4,7 @@
 
 `username`: r3ichal
 
-`specialization`: fullstack dev / software engineering undergrad
+`specialization`: fullstack dev / software engineering
 
 `contact`: [r3ichal@proton.me](mailto:r3ichal@proton.me) or Discord: **@r3ichal**
 
